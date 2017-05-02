@@ -1,0 +1,39 @@
+html {
+  background-image:linear-gradient(grey, white);
+  background-repeat: no-repeat;
+  min-height: 100%;
+}
+
+form {
+  text-align: center;
+  margin-top:  15%;
+}
+
+#prenom {
+  border-radius: 6px;
+  border: solid black 2px;
+  width: 20%;
+  height: 30px;
+  margin-bottom: 2%;
+}
+
+#email {
+  border-radius: 6px;
+  border: solid black 2px;
+  width: 20%;
+  height: 30px;
+  margin-bottom: 2%;
+}
+
+#message {
+  border-radius: 6px;
+  border: solid black 2px;
+  width: 20%;
+  height: 100px;
+  margin-bottom: 2%;
+}
+
+#submit {
+  border radius : 5px;
+  border: solid black 2px;
+}
